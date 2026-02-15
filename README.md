@@ -1,178 +1,171 @@
-# Excel21DaysChallenge
-📊 Excel Data Cleaning & Transformation Project
-Using Microsoft Excel & Power Query
-📌 Project Overview
-![Excel](https://github.com/user-attachments/assets/0e2a1119-9062-474f-b8ac-25ac3aeda422)
+# 📊 Excel Data Cleaning & Transformation Project  
+### Using Microsoft Excel & Power Query
+---
+## 📌 Project Overview
+![Excel](https://github.com/user-attachments/assets/db3c6691-2732-49bd-81a1-b19631639ff5)
 
-This project focuses on cleaning, transforming, and preparing raw data for analysis using:
+This project focuses on transforming a raw, unstructured dataset into a clean, structured, and analysis-ready format using Microsoft Excel and Power Query.
 
-Microsoft Excel
+The goal was to simulate a real-world data preprocessing workflow where raw business data contains inconsistencies, duplicates, missing values, and incorrect data types.
 
-Power Query Editor
+This project demonstrates the complete data cleaning process before performing reporting, dashboarding, or business analysis.
 
-The objective was to convert unstructured or inconsistent raw data into a clean, analysis-ready dataset using industry-standard data transformation techniques.
+---
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
-Identify and clean inconsistent data
+- Identify data inconsistencies
+- Remove duplicate records
+- Handle missing values
+- Standardize text formatting
+- Correct data types
+- Create derived and conditional columns
+- Automate cleaning steps using Power Query
+- Prepare dataset for analysis and reporting
 
-Remove duplicates
+---
 
-Handle missing values
+## 🛠 Tools & Technologies Used
 
-Standardize text formatting
+- Microsoft Excel
+- Power Query Editor
+- Excel Formulas (TRIM, CLEAN, PROPER, UPPER, LOWER)
+- Sorting & Filtering
+- Conditional Logic
+- Data Validation
 
-Transform columns using Power Query
+---
 
-Prepare dataset for reporting & analysis
+## 🔄 Data Cleaning Process
 
-🛠 Tools Used
+### 1️⃣ Data Understanding
 
-Microsoft Excel
+- Reviewed dataset structure
+- Identified formatting inconsistencies
+- Checked for blank/null values
+- Verified column data types
+- Examined logical relationships between fields
 
-Power Query Editor
+---
 
-Excel Formulas
+### 2️⃣ Handling Missing Values
 
-Data Validation
+- Scanned dataset for blank cells
+- Applied appropriate replacement strategy
+- Ensured no incomplete critical records remained
+- Validated dataset integrity after cleaning
 
-Sorting & Filtering
+---
 
-🔄 Data Cleaning Steps Performed
-✅ 1. Removed Duplicate Records
+### 3️⃣ Removing Duplicate Records
 
-Used Excel’s Remove Duplicates
+- Used Excel’s Remove Duplicates feature
+- Verified unique identifiers
+- Ensured no repeated transactional records
+- Final dataset contains only unique rows
 
-Ensured data integrity
+---
 
-Verified no repeated rows
+### 4️⃣ Standardizing Text Formatting
 
-✅ 2. Handled Missing Values
+Applied text functions to ensure consistency:
 
-Identified blank/null cells
+- PROPER() → Standard capitalization
+- UPPER() / LOWER() → Uniform text
+- TRIM() → Removed extra spaces
+- CLEAN() → Removed non-printable characters
 
-Applied appropriate strategies:
+This ensures professional and consistent formatting across the dataset.
 
-Filled values where required
+---
 
-Verified dataset completeness
+### 5️⃣ Data Type Corrections
 
-✅ 3. Standardized Text Formatting
+Converted columns to appropriate formats:
 
-Converted text to Proper Case / Uppercase where necessary
+- Text → Number
+- Text → Date
+- General → Currency
+- Applied decimal precision where required
 
-Cleaned extra spaces using:
+This step ensures accurate calculations and prevents reporting errors.
 
-TRIM()
-CLEAN()
+---
 
+## ⚡ Power Query Transformations
 
-Ensured consistent naming format
+Power Query was used to create scalable and automated transformation steps.
 
-✅ 4. Corrected Data Types
+### 🔹 Column Transformations
 
-Converted columns to:
+- Renamed columns for clarity
+- Removed unnecessary fields
+- Reordered columns logically
+- Changed data types
 
-Date format
+---
 
-Number format
+### 🔹 Splitting & Merging Columns
 
-Currency format
+- Split structured text fields
+- Merged relevant columns
+- Created formatted combined fields for reporting
 
-Ensured numeric columns were not stored as text
+---
 
-⚡ Power Query Transformations
+### 🔹 Custom & Conditional Columns
 
-Performed structured transformations using Power Query:
+Created new columns using:
 
-🔹 Column Transformations
+- Logical conditions
+- Mathematical calculations
+- Categorization rules
 
-Changed data types
+Examples include:
+- Profit-based classification
+- Derived financial metrics
+- Business rule-based tagging
 
-Split columns (if required)
+---
 
-Merged columns
+### 🔹 Automation Using Applied Steps
 
-Renamed columns for clarity
+All transformations were recorded in Power Query’s Applied Steps panel.
 
-🔹 Custom Columns Created
+Benefits:
+- Fully automated
+- Refreshable with new data
+- Scalable for larger datasets
+- Repeatable cleaning process
 
-Derived calculated fields
+---
 
-Conditional columns
+## 📊 Data Validation & Quality Assurance
 
-Logical categorization
+Post-cleaning validation included:
 
-🔹 Filtering & Sorting
+- Cross-checking totals
+- Verifying numeric consistency
+- Testing filters and sorting
+- Confirming no duplicate entries
+- Ensuring correct date and currency formatting
 
-Applied filters for analysis-ready view
+The dataset is now analysis-ready.
 
-Sorted data for trend visibility
+---
 
-📊 Data Preparation Outcome
+## 🧠 Skills Demonstrated
 
-After cleaning and transformation:
+- Data Cleaning & Preparation
+- Power Query Automation
+- Logical Categorization
+- Error Detection & Correction
+- Data Quality Validation
+- Structured Data Preparation
+- Analytical Thinking
 
-Dataset became analysis-ready
+---
 
-No duplicate entries
+## 🚀 Real-World Relevance
 
-Consistent formatting
-
-Structured column naming
-
-Reliable numerical fields for calculations
-
-🧠 Key Skills Demonstrated
-
-Data Cleaning
-
-Data Transformation
-
-Power Query Usage
-
-Data Validation
-
-Logical Thinking
-
-Attention to Detail
-
-Data Preparation for BI Tools
-
-🚀 Why This Project Matters
-
-Data cleaning is one of the most critical steps in data analysis.
-
-This project demonstrates the ability to:
-
-Work with messy real-world datasets
-
-Prepare structured data for dashboards
-
-Apply transformation logic
-
-Use Power Query efficiently (industry-relevant skill)
-
-📁 File Included
-
-Excel Data Cleaning and Transformation.xlsx
-
-📌 Conclusion
-
-This project highlights practical knowledge of:
-
-Excel-based data cleaning
-
-Power Query transformations
-
-Structured data preparation
-
-Analytical readiness
-
-It reflects strong foundational skills required for:
-
-Data Analyst roles
-
-Business Intelligence projects
-
-Reporting & Dashboard development
+Data cleaning accounts for a
