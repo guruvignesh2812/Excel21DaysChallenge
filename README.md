@@ -192,12 +192,6 @@ After transformation:
 
 ---
 
-## 📁 Project File
-
-Excel Assignment 2 - Data Cleaning and Transformation.xlsx
-
----
-
 ## 📌 Conclusion
 
 This project showcases practical experience in Excel-based data preprocessing and Power Query transformation.
