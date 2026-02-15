@@ -2,6 +2,7 @@
 📊 Excel Data Cleaning & Transformation Project
 Using Microsoft Excel & Power Query
 📌 Project Overview
+![Excel](https://github.com/user-attachments/assets/0e2a1119-9062-474f-b8ac-25ac3aeda422)
 
 This project focuses on cleaning, transforming, and preparing raw data for analysis using:
 
