@@ -1,8 +1,10 @@
 # 📊 Excel Data Cleaning & Transformation Project  
 ### Using Microsoft Excel & Power Query
+
 ---
+
 ## 📌 Project Overview
-![Excel](https://github.com/user-attachments/assets/db3c6691-2732-49bd-81a1-b19631639ff5)
+![Excel](https://github.com/user-attachments/assets/c6604d19-c288-4dcf-9d8d-bdf034163765)
 
 This project focuses on transforming a raw, unstructured dataset into a clean, structured, and analysis-ready format using Microsoft Excel and Power Query.
 
@@ -168,4 +170,36 @@ The dataset is now analysis-ready.
 
 ## 🚀 Real-World Relevance
 
-Data cleaning accounts for a
+Data cleaning accounts for a significant portion of a Data Analyst’s workflow.
+
+This project demonstrates:
+
+- Ability to handle messy real-world data
+- Understanding of business data integrity
+- Implementation of scalable transformation logic
+- Preparation of structured datasets for reporting tools like Power BI
+
+---
+
+## 📈 Outcome
+
+After transformation:
+
+- Dataset is clean and structured
+- No duplicate or inconsistent entries
+- All columns have correct data types
+- Ready for Pivot Tables, Dashboard Creation, or BI Integration
+
+---
+
+## 📁 Project File
+
+Excel Assignment 2 - Data Cleaning and Transformation.xlsx
+
+---
+
+## 📌 Conclusion
+
+This project showcases practical experience in Excel-based data preprocessing and Power Query transformation.
+
+It reflects strong foundational skills required for Data Analyst and Business Intelligence roles, including automation, validation, and structured data preparation.
