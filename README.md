@@ -195,5 +195,10 @@ After transformation:
 ## 📌 Conclusion
 
 This project showcases practical experience in Excel-based data preprocessing and Power Query transformation.
-
 It reflects strong foundational skills required for Data Analyst and Business Intelligence roles, including automation, validation, and structured data preparation.
+
+## 👨‍💻 About Me
+Aspiring Data Analyst with strong foundations in data cleaning, visualization, and business-driven analytics.
+Focused on transforming raw data into meaningful insights that support strategic decision-making and business growth.
+
+
